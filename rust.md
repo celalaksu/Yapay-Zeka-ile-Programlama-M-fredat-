@@ -57,22 +57,22 @@ Her seviyede şunları yapın:
 
 #### Soru 3
 ```
-"Rust'ın diğer programlama dillerinden farkları nelerdir?"
+"Rust programlama dilinin diğer programlama dillerinden farkları nelerdir?"
 ```
 
 #### Soru 4
 ```
-"Rust hangi alanlarda kullanılır? Örneklerle açıkla"
+"Rust programlama dili hangi alanlarda kullanılır? Örneklerle açıkla"
 ```
 
 #### Soru 5
 ```
-"Rust'ı bilgisayarıma nasıl kurarım? Adım adım anlat"
+"Rust programlama dilini bilgisayarıma nasıl kurarım? Adım adım anlat"
 ```
 
 #### Soru 6
 ```
-"Cargo nedir ve ne işe yarar?"
+"Rust programlama dilinde, Cargo nedir ve ne işe yarar?"
 ```
 
 ### 1.2 Geliştirme Ortamı Kurulumu (IDE ve Araçlar)
@@ -265,27 +265,27 @@ Her seviyede şunları yapın:
 
 #### Soru 39
 ```
-"Rust'ta kod yazım kuralları nelerdir?"
+"Rust programlama dilinde, kod yazım kuralları nelerdir?"
 ```
 
 #### Soru 40
 ```
-"Rust'ta yorum satırları nasıl yazılır?"
+"Rust programlama dilinde, yorum satırları nasıl yazılır?"
 ```
 
 #### Soru 41
 ```
-"main fonksiyonu nedir ve neden önemlidir?"
+"Rust programlama dilinde, main fonksiyonu nedir ve neden önemlidir?"
 ```
 
 #### Soru 42
 ```
-"println! makrosu nedir ve nasıl kullanılır?"
+"Rust programlama dilinde, println! makrosu nedir ve nasıl kullanılır?"
 ```
 
 #### Soru 43
 ```
-"Rust'ta kod blokları nasıl oluşturulur?"
+"Rust programlama dilinde, kod blokları nasıl oluşturulur?"
 ```
 
 ## Seviye 2: Değişkenler ve Veri Türleri
@@ -304,52 +304,52 @@ Her seviyede şunları yapın:
 
 #### Soru 46
 ```
-"Rust'ta değişken nasıl oluşturulur?"
+"Rust programlama dilinde, değişken nasıl oluşturulur?"
 ```
 
 #### Soru 47
 ```
-"let anahtar kelimesi ne işe yarar?"
+"Rust programlama dilinde, let anahtar kelimesi ne işe yarar?"
 ```
 
 #### Soru 48
 ```
-"Değişken isimlendirme kuralları nelerdir?"
+"Rust programlama dilinde, değişken isimlendirme kuralları nelerdir?"
 ```
 
 #### Soru 49
 ```
-"Rust'ta değişkenler neden varsayılan olarak değiştirilemez?"
+"Rust programlama dilinde, değişkenler neden varsayılan olarak değiştirilemez?"
 ```
 
 #### Soru 50
 ```
-"mut anahtar kelimesi ne işe yarar?"
+"Rust programlama dilinde, mut anahtar kelimesi ne işe yarar?"
 ```
 
 #### Soru 51
 ```
-"Değişken gölgeleme (shadowing) nedir?"
+"Rust programlama dilinde, değişken gölgeleme (shadowing) nedir?"
 ```
 
 #### Soru 52
 ```
-"Değişken tanımlarken ownership nasıl çalışır? let x = 5 ile let y = x arasındaki fark nedir?"
+"Rust programlama dilinde, değişken tanımlarken ownership nasıl çalışır? let x = 5 ile let y = x arasındaki fark nedir?"
 ```
 
 #### Soru 53
 ```
-"String değişkeni başka bir değişkene atarken ne olur? Ownership transfer edilir mi?"
+"Rust programlama dilinde, String değişkeni başka bir değişkene atarken ne olur? Ownership transfer edilir mi?"
 ```
 
 #### Soru 54
 ```
-"Copy türleri ile non-Copy türleri değişken atamasında nasıl farklı davranır?"
+"Rust programlama dilinde, Copy türleri ile non-Copy türleri değişken atamasında nasıl farklı davranır?"
 ```
 
 #### Soru 55
 ```
-"Değişken atamasında move vs copy ne zaman oluşur?"
+"Rust programlama dilinde, değişken atamasında move vs copy ne zaman oluşur?"
 ```
 
 ### 2.2 Veri Türleri
@@ -361,57 +361,57 @@ Her seviyede şunları yapın:
 
 #### Soru 57
 ```
-"Rust'ta temel veri türleri nelerdir?"
+"Rust programlama dilinde, temel veri türleri nelerdir?"
 ```
 
 #### Soru 58
 ```
-"Tam sayı türleri nelerdir? (i8, i16, i32, i64, u8, u16, u32, u64)"
+"Rust programlama dilinde, tam sayı türleri nelerdir? (i8, i16, i32, i64, u8, u16, u32, u64)"
 ```
 
 #### Soru 59
 ```
-"Ondalıklı sayı türleri nelerdir? (f32, f64)"
+"Rust programlama dilinde, ondalıklı sayı türleri nelerdir? (f32, f64)"
 ```
 
 #### Soru 60
 ```
-"Boolean türü nedir ve nasıl kullanılır?"
+"Rust programlama dilinde, Boolean türü nedir ve nasıl kullanılır?"
 ```
 
 #### Soru 61
 ```
-"Karakter (char) türü nedir?"
+"Rust programlama dilinde, karakter (char) türü nedir?"
 ```
 
 #### Soru 62
 ```
-"String ve &str arasındaki fark nedir?"
+"Rust programlama dilinde, String ve &str arasındaki fark nedir?"
 ```
 
 #### Soru 63
 ```
-"Tür çıkarımı (type inference) nedir?"
+"Rust programlama dilinde, tür çıkarımı (type inference) nedir?"
 ```
 
 #### Soru 64
 ```
-"Tür dönüşümü nasıl yapılır?"
+"Rust programlama dilinde, tür dönüşümü nasıl yapılır?"
 ```
 
 #### Soru 65
 ```
-"Hangi veri türleri Copy trait'ini implement eder? Bu ownership açısından ne anlama gelir?"
+"Rust programlama dilinde, hangi veri türleri Copy trait'ini implement eder? Bu ownership açısından ne anlama gelir?"
 ```
 
 #### Soru 66
 ```
-"String gibi heap-allocated türlerin ownership'i nasıl çalışır?"
+"Rust programlama dilinde, String gibi heap-allocated türlerin ownership'i nasıl çalışır?"
 ```
 
 #### Soru 67
 ```
-"Primitive türlerin stack'te saklanması ownership'i nasıl etkiler?"
+"Rust programlama dilinde, primitive türlerin stack'te saklanması ownership'i nasıl etkiler?"
 ```
 
 ## Seviye 3: Kontrol Yapıları
@@ -425,47 +425,47 @@ Her seviyede şunları yapın:
 
 #### Soru 69
 ```
-"if ifadesi nasıl kullanılır?"
+"Rust programlama dilinde, if ifadesi nasıl kullanılır?"
 ```
 
 #### Soru 70
 ```
-"else if nasıl kullanılır?"
+"Rust programlama dilinde, else if nasıl kullanılır?"
 ```
 
 #### Soru 71
 ```
-"else nasıl kullanılır?"
+"Rust programlama dilinde, else nasıl kullanılır?"
 ```
 
 #### Soru 72
 ```
-"Rust'ta if ifadesi nasıl değer döndürür?"
+"Rust programlama dilinde, if ifadesi nasıl değer döndürür?"
 ```
 
 #### Soru 73
 ```
-"if koşulunda değişken kullanırken ownership nasıl etkilenir?"
+"Rust programlama dilinde, if koşulunda değişken kullanırken ownership nasıl etkilenir?"
 ```
 
 #### Soru 74
 ```
-"if bloğu içinde tanımlanan değişkenlerin ownership'i nasıl çalışır?"
+"Rust programlama dilinde, if bloğu içinde tanımlanan değişkenlerin ownership'i nasıl çalışır?"
 ```
 
 #### Soru 75
 ```
-"Koşullu ifadelerde String gibi owned değerleri nasıl kullanırız?"
+"Rust programlama dilinde, koşullu ifadelerde String gibi owned değerleri nasıl kullanırız?"
 ```
 
 #### Soru 76
 ```
-"if ifadesinde reference (&) kullanımı ne zaman gereklidir?"
+"Rust programlama dilinde, if ifadesinde reference (&) kullanımı ne zaman gereklidir?"
 ```
 
 #### Soru 77
 ```
-"Match guard'larda borrowing nasıl çalışır?"
+"Rust programlama dilinde, match guard'larda borrowing nasıl çalışır?"
 ```
 
 ### 3.2 Döngüler
@@ -477,62 +477,62 @@ Her seviyede şunları yapın:
 
 #### Soru 79
 ```
-"loop döngüsü nasıl kullanılır?"
+"Rust programlama dilinde, loop döngüsü nasıl kullanılır?"
 ```
 
 #### Soru 80
 ```
-"while döngüsü nasıl kullanılır?"
+"Rust programlama dilinde, while döngüsü nasıl kullanılır?"
 ```
 
 #### Soru 81
 ```
-"for döngüsü nasıl kullanılır?"
+"Rust programlama dilinde, for döngüsü nasıl kullanılır?"
 ```
 
 #### Soru 82
 ```
-"Range (..) operatörü nedir?"
+"Rust programlama dilinde, Range (..) operatörü nedir?"
 ```
 
 #### Soru 83
 ```
-"break ve continue anahtar kelimeleri ne işe yarar?"
+"Rust programlama dilinde, break ve continue anahtar kelimeleri ne işe yarar?"
 ```
 
 #### Soru 84
 ```
-"Döngü etiketleri (loop labels) nasıl kullanılır?"
+"Rust programlama dilinde, döngü etiketleri (loop labels) nasıl kullanılır?"
 ```
 
 #### Soru 85
 ```
-"for döngüsünde iterator ownership'i nasıl çalışır?"
+"Rust programlama dilinde, for döngüsünde iterator ownership'i nasıl çalışır?"
 ```
 
 #### Soru 86
 ```
-"vec.into_iter() vs vec.iter() vs vec.iter_mut() arasındaki ownership farkları nelerdir?"
+"Rust programlama dilinde, vec.into_iter() vs vec.iter() vs vec.iter_mut() arasındaki ownership farkları nelerdir?"
 ```
 
 #### Soru 87
 ```
-"Döngü içinde değişken modify ederken borrowing kuralları nasıl uygulanır?"
+"Rust programlama dilinde, döngü içinde değişken modify ederken borrowing kuralları nasıl uygulanır?"
 ```
 
 #### Soru 88
 ```
-"Döngü değişkeninin scope'u ve ownership'i nasıl çalışır?"
+"Rust programlama dilinde, döngü değişkeninin scope'u ve ownership'i nasıl çalışır?"
 ```
 
 #### Soru 89
 ```
-"Nested loop'larda içteki döngüden dıştaki değişkene erişirken borrowing nasıl olur?"
+"Rust programlama dilinde, nested loop'larda içteki döngüden dıştaki değişkene erişirken borrowing nasıl olur?"
 ```
 
 #### Soru 90
 ```
-"while let döngüsünde pattern matching ile ownership nasıl transfer edilir?"
+"Rust programlama dilinde, while let döngüsünde pattern matching ile ownership nasıl transfer edilir?"
 ```
 
 ## Seviye 4: Fonksiyonlar
@@ -546,104 +546,104 @@ Her seviyede şunları yapın:
 
 #### Soru 92
 ```
-"Rust'ta fonksiyon nasıl tanımlanır?"
+"Rust programlama dilinde, fonksiyon nasıl tanımlanır?"
 ```
 
 #### Soru 93
 ```
-"fn anahtar kelimesi ne işe yarar?"
+"Rust programlama dilinde, fn anahtar kelimesi ne işe yarar?"
 ```
 
 #### Soru 94
 ```
-"Fonksiyon parametreleri nasıl tanımlanır?"
+"Rust programlama dilinde, fonksiyon parametreleri nasıl tanımlanır?"
 ```
 
 #### Soru 95
 ```
-"Fonksiyon nasıl çağrılır?"
+"Rust programlama dilinde, fonksiyon nasıl çağrılır?"
 ```
 
 #### Soru 96
 ```
-"Return anahtar kelimesi nasıl kullanılır?"
+"Rust programlama dilinde, return anahtar kelimesi nasıl kullanılır?"
 ```
 
 #### Soru 97
 ```
-"Rust'ta fonksiyonlar nasıl değer döndürür?"
+"Rust programlama dilinde, fonksiyonlar nasıl değer döndürür?"
 ```
 
 #### Soru 98
 ```
-"İfade (expression) ve deyim (statement) arasındaki fark nedir?"
+"Rust programlama dilinde, ifade (expression) ve deyim (statement) arasındaki fark nedir?"
 ```
 
 #### Soru 99
 ```
-"Fonksiyon parametrelerinde ownership nasıl çalışır?"
+"Rust programlama dilinde, fonksiyon parametrelerinde ownership nasıl çalışır?"
 ```
 
 #### Soru 100
 ```
-"Fonksiyona değer geçerken move mi copy mi olur?"
+"Rust programlama dilinde, fonksiyona değer geçerken move mi copy mi olur?"
 ```
 
 #### Soru 101
 ```
-"Fonksiyon parametresi olarak reference (&T) ne zaman kullanılır?"
+"Rust programlama dilinde, fonksiyon parametresi olarak reference (&T) ne zaman kullanılır?"
 ```
 
 #### Soru 102
 ```
-"Mutable reference (&mut T) fonksiyon parametresi olarak nasıl kullanılır?"
+"Rust programlama dilinde, mutable reference (&mut T) fonksiyon parametresi olarak nasıl kullanılır?"
 ```
 
 #### Soru 103
 ```
-"Fonksiyondan ownership döndürmek ne zaman mantıklıdır?"
+"Rust programlama dilinde, fonksiyondan ownership döndürmek ne zaman mantıklıdır?"
 ```
 
 #### Soru 104
 ```
-"Fonksiyondan reference döndürmenin kuralları nelerdir?"
+"Rust programlama dilinde, fonksiyondan reference döndürmenin kuralları nelerdir?"
 ```
 
 #### Soru 105
 ```
-"Dangling reference hatası fonksiyonlarda nasıl oluşur?"
+"Rust programlama dilinde, dangling reference hatası fonksiyonlarda nasıl oluşur?"
 ```
 
 ### 4.2 İleri Fonksiyon Konuları
 
 #### Soru 106
 ```
-"Fonksiyon overloading Rust'ta mümkün mü?"
+"Rust programlama dilinde, fonksiyon overloading mümkün mü?"
 ```
 
 #### Soru 107
 ```
-"Closures (anonim fonksiyonlar) nedir?"
+"Rust programlama dilinde, closures (anonim fonksiyonlar) nedir?"
 ```
 
 #### Soru 108
 ```
-"Higher-order functions nedir?"
+"Rust programlama dilinde, higher-order functions nedir?"
 ```
 
 #### Soru 109
 ```
-"Closure'larda capture semantiği nasıl çalışır? (move, borrow)"
+"Rust programlama dilinde, closure'larda capture semantiği nasıl çalışır? (move, borrow)"
 ```
 
 #### Soru 110
 ```
-"Fn, FnMut, FnOnce trait'lerinin ownership açısından farkları nelerdir?"
+"Rust programlama dilinde, Fn, FnMut, FnOnce trait'lerinin ownership açısından farkları nelerdir?"
 ```
 
 #### Soru 111
 ```
-"Closure environment'ı nasıl capture edilir?"
+"Rust programlama dilinde, closure environment'ı nasıl capture edilir?"
 ```
 
 ## Seviye 5: Ownership Sistemi (Rust'ın Kalbi)
@@ -652,7 +652,7 @@ Her seviyede şunları yapın:
 
 #### Soru 112
 ```
-"Ownership nedir? Rust'ı diğer dillerden ayıran bu özellik neden önemlidir?"
+"Rust programlama dilinde, ownership nedir? Rust'ı diğer dillerden ayıran bu özellik neden önemlidir?"
 ```
 
 #### Soru 113
@@ -662,71 +662,71 @@ Her seviyede şunları yapın:
 
 #### Soru 114
 ```
-"Ownership kuralları nelerdir?"
+"Rust programlama dilinde, ownership kuralları nelerdir?"
 ```
 
 #### Soru 115
 ```
-"Bir değişkenin ownership'i nasıl transfer edilir?"
+"Rust programlama dilinde, bir değişkenin ownership'i nasıl transfer edilir?"
 ```
 
 #### Soru 116
 ```
-"Move semantiği nedir?"
+"Rust programlama dilinde, move semantiği nedir?"
 ```
 
 #### Soru 117
 ```
-"Copy trait'i nedir? Hangi türler copy edilebilir?"
+"Rust programlama dilinde, Copy trait'i nedir? Hangi türler copy edilebilir?"
 ```
 
 ### 5.2 References ve Borrowing
 
 #### Soru 118
 ```
-"Reference (&) nedir? Nasıl kullanılır?"
+"Rust programlama dilinde, reference (&) nedir? Nasıl kullanılır?"
 ```
 
 #### Soru 119
 ```
-"Borrowing nedir? Ownership'ten farkı nedir?"
+"Rust programlama dilinde, borrowing nedir? Ownership'ten farkı nedir?"
 ```
 
 #### Soru 120
 ```
-"Mutable reference (&mut) nedir?"
+"Rust programlama dilinde, mutable reference (&mut) nedir?"
 ```
 
 #### Soru 121
 ```
-"Borrowing kuralları nelerdir?"
+"Rust programlama dilinde, borrowing kuralları nelerdir?"
 ```
 
 #### Soru 122
 ```
-"Dangling reference nedir? Rust nasıl engeller?"
+"Rust programlama dilinde, dangling reference nedir? Rust nasıl engeller?"
 ```
 
 #### Soru 123
 ```
-"Reference'ların yaşam süresi (lifetime) nedir?"
+"Rust programlama dilinde, reference'ların yaşam süresi (lifetime) nedir?"
 ```
 
 ### 5.3 Slices
 
 #### Soru 124
 ```
-"Slice nedir? Ne işe yarar?"
+"Rust programlama dilinde, slice nedir? Ne işe yarar?"
 ```
 
 #### Soru 125
 ```
-"String slice (&str) nasıl kullanılır?"
+"Rust programlama dilinde, string slice (&str) nasıl kullanılır?"
 ```
 
 #### Soru 126
 ```
-"Array slice nasıl oluşturulur?"
+"Rust programlama dilinde, array slice nasıl oluşturulur?"
 ```
 
 ## Seviye 6: Compound Data Types
@@ -735,91 +735,91 @@ Her seviyede şunları yapın:
 
 #### Soru 127
 ```
-"Tuple nedir? Nasıl kullanılır?"
+"Rust programlama dilinde, tuple nedir? Nasıl kullanılır?"
 ```
 
 #### Soru 128
 ```
-"Tuple elemanlarına nasıl erişilir?"
+"Rust programlama dilinde, tuple elemanlarına nasıl erişilir?"
 ```
 
 #### Soru 129
 ```
-"Tuple destructuring nedir?"
+"Rust programlama dilinde, tuple destructuring nedir?"
 ```
 
 ### 6.2 Arrays
 
 #### Soru 130
 ```
-"Array nedir? Ne zaman kullanılır?"
+"Rust programlama dilinde, array nedir? Ne zaman kullanılır?"
 ```
 
 #### Soru 131
 ```
-"Array nasıl tanımlanır ve başlatılır?"
+"Rust programlama dilinde, array nasıl tanımlanır ve başlatılır?"
 ```
 
 #### Soru 132
 ```
-"Array elemanlarına nasıl erişilir?"
+"Rust programlama dilinde, array elemanlarına nasıl erişilir?"
 ```
 
 #### Soru 133
 ```
-"Array ve Vector arasındaki fark nedir?"
+"Rust programlama dilinde, array ve Vector arasındaki fark nedir?"
 ```
 
 ### 6.3 Structs
 
 #### Soru 134
 ```
-"Struct nedir? Neden kullanılır?"
+"Rust programlama dilinde, struct nedir? Neden kullanılır?"
 ```
 
 #### Soru 135
 ```
-"Struct nasıl tanımlanır?"
+"Rust programlama dilinde, struct nasıl tanımlanır?"
 ```
 
 #### Soru 136
 ```
-"Struct instance'ı nasıl oluşturulur?"
+"Rust programlama dilinde, struct instance'ı nasıl oluşturulur?"
 ```
 
 #### Soru 137
 ```
-"Struct field'larına nasıl erişilir?"
+"Rust programlama dilinde, struct field'larına nasıl erişilir?"
 ```
 
 #### Soru 138
 ```
-"Struct update syntax nedir?"
+"Rust programlama dilinde, struct update syntax nedir?"
 ```
 
 #### Soru 139
 ```
-"Tuple struct nedir?"
+"Rust programlama dilinde, tuple struct nedir?"
 ```
 
 #### Soru 140
 ```
-"Unit struct nedir?"
+"Rust programlama dilinde, unit struct nedir?"
 ```
 
 #### Soru 141
 ```
-"Struct'lara method nasıl eklenir?"
+"Rust programlama dilinde, struct'lara method nasıl eklenir?"
 ```
 
 #### Soru 142
 ```
-"impl bloğu nedir?"
+"Rust programlama dilinde, impl bloğu nedir?"
 ```
 
 #### Soru 143
 ```
-"Associated functions nedir?"
+"Rust programlama dilinde, associated functions nedir?"
 ```
 
 ## Seviye 7: Enums ve Pattern Matching
@@ -828,64 +828,64 @@ Her seviyede şunları yapın:
 
 #### Soru 144
 ```
-"Enum nedir? Ne işe yarar?"
+"Rust programlama dilinde, enum nedir? Ne işe yarar?"
 ```
 
 #### Soru 145
 ```
-"Enum nasıl tanımlanır?"
+"Rust programlama dilinde, enum nasıl tanımlanır?"
 ```
 
 #### Soru 146
 ```
-"Enum variants nasıl kullanılır?"
+"Rust programlama dilinde, enum variants nasıl kullanılır?"
 ```
 
 #### Soru 147
 ```
-"Enum'lara veri nasıl eklenir?"
+"Rust programlama dilinde, enum'lara veri nasıl eklenir?"
 ```
 
 #### Soru 148
 ```
-"Option enum'u nedir? Null safety nasıl sağlar?"
+"Rust programlama dilinde, Option enum'u nedir? Null safety nasıl sağlar?"
 ```
 
 #### Soru 149
 ```
-"Result enum'u nedir? Error handling'de nasıl kullanılır?"
+"Rust programlama dilinde, Result enum'u nedir? Error handling'de nasıl kullanılır?"
 ```
 
 ### 7.2 Pattern Matching
 
 #### Soru 150
 ```
-"Pattern matching nedir? Neden güçlü bir özellik?"
+"Rust programlama dilinde, pattern matching nedir? Neden güçlü bir özellik?"
 ```
 
 #### Soru 151
 ```
-"match ifadesi nasıl kullanılır?"
+"Rust programlama dilinde, match ifadesi nasıl kullanılır?"
 ```
 
 #### Soru 152
 ```
-"match arms nasıl yazılır?"
+"Rust programlama dilinde, match arms nasıl yazılır?"
 ```
 
 #### Soru 153
 ```
-"Wildcard pattern (_) ne işe yarar?"
+"Rust programlama dilinde, wildcard pattern (_) ne işe yarar?"
 ```
 
 #### Soru 154
 ```
-"if let syntax'ı nedir?"
+"Rust programlama dilinde, if let syntax'ı nedir?"
 ```
 
 #### Soru 155
 ```
-"while let nasıl kullanılır?"
+"Rust programlama dilinde, while let nasıl kullanılır?"
 ```
 
 ## Seviye 8: Collections
@@ -894,71 +894,71 @@ Her seviyede şunları yapın:
 
 #### Soru 156
 ```
-"Vector nedir? Array'den farkı nedir?"
+"Rust programlama dilinde, Vector nedir? Array'den farkı nedir?"
 ```
 
 #### Soru 157
 ```
-"Vector nasıl oluşturulur?"
+"Rust programlama dilinde, Vector nasıl oluşturulur?"
 ```
 
 #### Soru 158
 ```
-"Vector'e eleman nasıl eklenir?"
+"Rust programlama dilinde, Vector'e eleman nasıl eklenir?"
 ```
 
 #### Soru 159
 ```
-"Vector elemanlarına nasıl erişilir?"
+"Rust programlama dilinde, Vector elemanlarına nasıl erişilir?"
 ```
 
 #### Soru 160
 ```
-"Vector üzerinde nasıl iterasyon yapılır?"
+"Rust programlama dilinde, Vector üzerinde nasıl iterasyon yapılır?"
 ```
 
 ### 8.2 Strings
 
 #### Soru 161
 ```
-"String ve &str arasındaki detaylı fark nedir?"
+"Rust programlama dilinde, String ve &str arasındaki detaylı fark nedir?"
 ```
 
 #### Soru 162
 ```
-"String nasıl oluşturulur ve manipüle edilir?"
+"Rust programlama dilinde, String nasıl oluşturulur ve manipüle edilir?"
 ```
 
 #### Soru 163
 ```
-"String concatenation nasıl yapılır?"
+"Rust programlama dilinde, String concatenation nasıl yapılır?"
 ```
 
 #### Soru 164
 ```
-"String slicing nasıl çalışır?"
+"Rust programlama dilinde, String slicing nasıl çalışır?"
 ```
 
 ### 8.3 Hash Maps
 
 #### Soru 165
 ```
-"HashMap nedir? Ne zaman kullanılır?"
+"Rust programlama dilinde, HashMap nedir? Ne zaman kullanılır?"
 ```
 
 #### Soru 166
 ```
-"HashMap nasıl oluşturulur?"
+"Rust programlama dilinde, HashMap nasıl oluşturulur?"
 ```
 
 #### Soru 167
 ```
-"HashMap'e key-value pair nasıl eklenir?"
+"Rust programlama dilinde, HashMap'e key-value pair nasıl eklenir?"
 ```
 
 #### Soru 168
 ```
-"HashMap'ten değer nasıl okunur?"
+"Rust programlama dilinde, HashMap'ten değer nasıl okunur?"
 ```
 
 ## Seviye 9: Error Handling
@@ -967,44 +967,44 @@ Her seviyede şunları yapın:
 
 #### Soru 169
 ```
-"Panic nedir? Ne zaman oluşur?"
+"Rust programlama dilinde, panic nedir? Ne zaman oluşur?"
 ```
 
 #### Soru 170
 ```
-"panic! makrosu nasıl kullanılır?"
+"Rust programlama dilinde, panic! makrosu nasıl kullanılır?"
 ```
 
 #### Soru 171
 ```
-"Recoverable ve unrecoverable error'lar nedir?"
+"Rust programlama dilinde, recoverable ve unrecoverable error'lar nedir?"
 ```
 
 ### 9.2 Result Type
 
 #### Soru 172
 ```
-"Result<T, E> nasıl kullanılır?"
+"Rust programlama dilinde, Result<T, E> nasıl kullanılır?"
 ```
 
 #### Soru 173
 ```
-"Error propagation nasıl yapılır?"
+"Rust programlama dilinde, error propagation nasıl yapılır?"
 ```
 
 #### Soru 174
 ```
-"? operatörü ne işe yarar?"
+"Rust programlama dilinde, ? operatörü ne işe yarar?"
 ```
 
 #### Soru 175
 ```
-"unwrap() ve expect() metotları nedir?"
+"Rust programlama dilinde, unwrap() ve expect() metotları nedir?"
 ```
 
 #### Soru 176
 ```
-"Custom error types nasıl oluşturulur?"
+"Rust programlama dilinde, custom error types nasıl oluşturulur?"
 ```
 
 ## Seviye 10: Generic Types ve Traits
@@ -1013,64 +1013,64 @@ Her seviyede şunları yapın:
 
 #### Soru 177
 ```
-"Generic type nedir? Neden kullanılır?"
+"Rust programlama dilinde, generic type nedir? Neden kullanılır?"
 ```
 
 #### Soru 178
 ```
-"Generic function nasıl yazılır?"
+"Rust programlama dilinde, generic function nasıl yazılır?"
 ```
 
 #### Soru 179
 ```
-"Generic struct nasıl tanımlanır?"
+"Rust programlama dilinde, generic struct nasıl tanımlanır?"
 ```
 
 #### Soru 180
 ```
-"Generic enum nasıl oluşturulur?"
+"Rust programlama dilinde, generic enum nasıl oluşturulur?"
 ```
 
 #### Soru 181
 ```
-"Type constraints nedir?"
+"Rust programlama dilinde, type constraints nedir?"
 ```
 
 ### 10.2 Traits
 
 #### Soru 182
 ```
-"Trait nedir? Interface'lerden farkı nedir?"
+"Rust programlama dilinde, trait nedir? Interface'lerden farkı nedir?"
 ```
 
 #### Soru 183
 ```
-"Trait nasıl tanımlanır?"
+"Rust programlama dilinde, trait nasıl tanımlanır?"
 ```
 
 #### Soru 184
 ```
-"Trait nasıl implement edilir?"
+"Rust programlama dilinde, trait nasıl implement edilir?"
 ```
 
 #### Soru 185
 ```
-"Default implementations nedir?"
+"Rust programlama dilinde, default implementations nedir?"
 ```
 
 #### Soru 186
 ```
-"Trait bounds nedir?"
+"Rust programlama dilinde, trait bounds nedir?"
 ```
 
 #### Soru 187
 ```
-"Trait objects nedir?"
+"Rust programlama dilinde, trait objects nedir?"
 ```
 
 #### Soru 188
 ```
-"Common traits nelerdir? (Debug, Clone, Copy, etc.)"
+"Rust programlama dilinde, common traits nelerdir? (Debug, Clone, Copy, etc.)"
 ```
 
 ## Seviye 11: Lifetimes (Detaylı)
@@ -1079,88 +1079,88 @@ Her seviyede şunları yapın:
 
 #### Soru 189
 ```
-"Lifetime nedir? Reference'ların yaşam süresi neden önemlidir?"
+"Rust programlama dilinde, lifetime nedir? Reference'ların yaşam süresi neden önemlidir?"
 ```
 
 #### Soru 190
 ```
-"Lifetime annotation syntax'ı nasıldır? 'a nedir?"
+"Rust programlama dilinde, lifetime annotation syntax'ı nasıldır? 'a nedir?"
 ```
 
 #### Soru 191
 ```
-"Lifetime parameter nedir? Generic type parameter'dan farkı nedir?"
+"Rust programlama dilinde, lifetime parameter nedir? Generic type parameter'dan farkı nedir?"
 ```
 
 #### Soru 192
 ```
-"Lifetime elision rules nelerdir? Compiler ne zaman lifetime'ları otomatik çıkarır?"
+"Rust programlama dilinde, lifetime elision rules nelerdir? Compiler ne zaman lifetime'ları otomatik çıkarır?"
 ```
 
 #### Soru 193
 ```
-"Function signature'larda lifetime nasıl specify edilir?"
+"Rust programlama dilinde, function signature'larda lifetime nasıl specify edilir?"
 ```
 
 ### 11.2 Lifetime Annotations
 
 #### Soru 194
 ```
-"Lifetime annotation ne zaman gereklidir?"
+"Rust programlama dilinde, lifetime annotation ne zaman gereklidir?"
 ```
 
 #### Soru 195
 ```
-"Multiple lifetime parameters (&'a str, &'b str) nasıl kullanılır?"
+"Rust programlama dilinde, multiple lifetime parameters (&'a str, &'b str) nasıl kullanılır?"
 ```
 
 #### Soru 196
 ```
-"Lifetime subtyping nedir? 'a: 'b ne demektir?"
+"Rust programlama dilinde, lifetime subtyping nedir? 'a: 'b ne demektir?"
 ```
 
 #### Soru 197
 ```
-"Input lifetimes ve output lifetimes arasındaki ilişki nedir?"
+"Rust programlama dilinde, input lifetimes ve output lifetimes arasındaki ilişki nedir?"
 ```
 
 ### 11.3 Struct ve Lifetime
 
 #### Soru 198
 ```
-"Struct field'larında lifetime nasıl kullanılır?"
+"Rust programlama dilinde, struct field'larında lifetime nasıl kullanılır?"
 ```
 
 #### Soru 199
 ```
-"Struct definition'da lifetime parameter nasıl tanımlanır?"
+"Rust programlama dilinde, struct definition'da lifetime parameter nasıl tanımlanır?"
 ```
 
 #### Soru 200
 ```
-"Self-referential struct'lar neden problemlidir?"
+"Rust programlama dilinde, self-referential struct'lar neden problemlidir?"
 ```
 
 ### 11.4 Advanced Lifetimes
 
 #### Soru 201
 ```
-"Static lifetime ('static) nedir? Ne zaman kullanılır?"
+"Rust programlama dilinde, static lifetime ('static) nedir? Ne zaman kullanılır?"
 ```
 
 #### Soru 202
 ```
-"Lifetime bounds nedir? T: 'a ne demektir?"
+"Rust programlama dilinde, lifetime bounds nedir? T: 'a ne demektir?"
 ```
 
 #### Soru 203
 ```
-"Higher-ranked trait bounds (HRTB) nedir?"
+"Rust programlama dilinde, higher-ranked trait bounds (HRTB) nedir?"
 ```
 
 #### Soru 204
 ```
-"Lifetime'lar ile generic types nasıl kombine edilir?"
+"Rust programlama dilinde, lifetime'lar ile generic types nasıl kombine edilir?"
 ```
 
 ## Seviye 12: Testing
@@ -1169,44 +1169,44 @@ Her seviyede şunları yapın:
 
 #### Soru 205
 ```
-"Rust'ta test nasıl yazılır?"
+"Rust programlama dilinde, test nasıl yazılır?"
 ```
 
 #### Soru 206
 ```
-"#[test] attribute'u nedir?"
+"Rust programlama dilinde, #[test] attribute'u nedir?"
 ```
 
 #### Soru 207
 ```
-"assert! makroları nasıl kullanılır?"
+"Rust programlama dilinde, assert! makroları nasıl kullanılır?"
 ```
 
 #### Soru 208
 ```
-"cargo test komutu nasıl çalışır?"
+"Rust programlama dilinde, cargo test komutu nasıl çalışır?"
 ```
 
 #### Soru 209
 ```
-"Test organization nasıl yapılır?"
+"Rust programlama dilinde, test organization nasıl yapılır?"
 ```
 
 ### 12.2 Integration Testing
 
 #### Soru 210
 ```
-"Integration test nedir?"
+"Rust programlama dilinde, integration test nedir?"
 ```
 
 #### Soru 211
 ```
-"tests/ directory nasıl kullanılır?"
+"Rust programlama dilinde, tests/ directory nasıl kullanılır?"
 ```
 
 #### Soru 212
 ```
-"Benchmark testing nasıl yapılır?"
+"Rust programlama dilinde, benchmark testing nasıl yapılır?"
 ```
 
 ## Seviye 13: I/O Operations
@@ -1215,4 +1215,5 @@ Her seviyede şunları yapın:
 
 #### Soru 213
 ```
-"File okuma/yazma nasıl yapılır
+"Rust programlama dilinde, file okuma/yazma nasıl yapılır?"
+```
