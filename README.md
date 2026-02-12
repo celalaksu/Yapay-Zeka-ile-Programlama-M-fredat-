@@ -186,7 +186,7 @@ Bu proje açık kaynaklıdır ve herkes tarafından özgürce kullanılabilir.
 ## 📞 İletişim
 
 - **GitHub**: [@celalaksu](https://github.com/celalaksu)
-- **Repo URL**: [Yapay-Zeka-ile-Programlama-M-fredat-](https://github.com/celalaksu/Yapay-Zeka-ile-Programlama-M-fredat-)
+- **Repo URL**: [Yapay Zeka İle Programlama Müfredatı](https://github.com/celalaksu/Yapay-Zeka-ile-Programlama-M-fredat-)
 
 ## ⭐ Destek
 
