@@ -76,6 +76,13 @@ Bu kurs, müfredattaki konuları görsel ve interaktif şekilde öğrenmenize ya
 - Debugging ve profiling teknikleri
 - Ownership sistemi merkezli düşünme alışkanlığı
 
+### 🎓 Video Eğitim
+Rust'u sıfırdan öğrenmek için **video eğitim** almak isterseniz:
+
+👉 [**Başlangıç ve Orta Seviye Rust Programlama Eğitimi** - Udemy Kursu](https://www.udemy.com/course/baslangc-ve-orta-seviye-rust-programlama-egitimi/?referralCode=3BDBDA92707F1B6CB465)
+
+Bu kurs, müfredattaki konuları görsel ve interaktif şekilde öğrenmenize yardımcı olacaktır.
+
 [Rust Müfredatına Git →](rust/rust.md)
 
 ## 🚀 Nasıl Kullanılır?
@@ -154,6 +161,7 @@ Bu müfredat, modern ve etkili öğrenme prensiplerini temel alır:
 - [The Rust Book](https://doc.rust-lang.org/book/)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 - [Rust Forums](https://users.rust-lang.org/)
+- [Başlangıç ve Orta Seviye Rust Programlama Eğitimi - Udemy Kursu](https://www.udemy.com/course/baslangc-ve-orta-seviye-rust-programlama-egitimi/?referralCode=3BDBDA92707F1B6CB465)
 
 ## 🤝 Katkıda Bulunma
 
